@@ -4,7 +4,6 @@
 //
 
 import UIKit
-import NukeExtensions
 
 class CharacterTVC: UITableViewCell {
 
